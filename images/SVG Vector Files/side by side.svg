@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1201.9 229.8" style="enable-background:new 0 0 1201.9 229.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FF0023;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#00A8FF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FF00EB;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#04A9C6;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#0200FF;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#8F00FF;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#0065FF;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#7800FF;}
+	.st9{fill-rule:evenodd;clip-rule:evenodd;fill:#00C5FF;}
+	.st10{fill-rule:evenodd;clip-rule:evenodd;fill:#01AB83;}
+	.st11{fill-rule:evenodd;clip-rule:evenodd;fill:#05AB26;}
+	.st12{fill-rule:evenodd;clip-rule:evenodd;fill:#49AB03;}
+	.st13{fill-rule:evenodd;clip-rule:evenodd;fill:#83C606;}
+	.st14{fill-rule:evenodd;clip-rule:evenodd;fill:#FFCC00;}
+	.st15{fill-rule:evenodd;clip-rule:evenodd;fill:#FF8C00;}
+	.st16{fill-rule:evenodd;clip-rule:evenodd;fill:#5E00FF;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#FF00ED;fill-opacity:0;}
+	.st18{fill-rule:evenodd;clip-rule:evenodd;fill:#9900FF;fill-opacity:0;}
+	.st19{fill-rule:evenodd;clip-rule:evenodd;fill:#5E00FF;fill-opacity:0;}
+	.st20{font-family:'Poppins-ExtraBold';}
+	.st21{font-size:76.9245px;}
+</style>
+<g transform="rotate(0 311.25900580590576 234.13459928953557)">
+	<path class="st0" d="M101.5,91.8c3,0,5.5,2.5,5.5,5.5c0,3.1-2.5,5.5-5.5,5.5h-5.9v39.6l42.9,68.9c2.1,3.4,2.2,7.7,0.3,11.2
+		c-2,3.5-5.6,5.7-9.7,5.7h-118c-4,0-7.7-2.2-9.7-5.7s-1.8-7.8,0.3-11.2l42.9-68.9v-39.6h-7.4c-3,0-5.5-2.5-5.5-5.5
+		c0-3,2.5-5.5,5.5-5.5h18.5v53.8l-44.6,71.5h118l-44.6-71.5V91.8L101.5,91.8L101.5,91.8z"/>
+	<circle class="st1" cx="35.9" cy="204.8" r="8.6"/>
+	<circle class="st2" cx="53.4" cy="187.3" r="11.7"/>
+	<circle class="st3" cx="53.8" cy="207.7" r="5.1"/>
+	<circle class="st4" cx="56.4" cy="167.2" r="5.5"/>
+	<circle class="st5" cx="100.2" cy="200.6" r="11.4"/>
+	<circle class="st6" cx="69.4" cy="204.5" r="6.5"/>
+	<circle class="st7" cx="78.9" cy="185.6" r="10"/>
+	<circle class="st8" cx="82.8" cy="204.4" r="3.2"/>
+	<circle class="st9" cx="96.4" cy="182.4" r="4.8"/>
+	<circle class="st10" cx="75" cy="165" r="8.1"/>
+	<circle class="st11" cx="69" cy="146.6" r="6.1"/>
+	<circle class="st12" cx="69.1" cy="127.2" r="7.4"/>
+	<circle class="st13" cx="73.4" cy="106.9" r="4.3"/>
+	<circle class="st14" cx="62.4" cy="85.7" r="5.9"/>
+	<circle class="st15" cx="87.6" cy="73.1" r="8.8"/>
+	<circle class="st6" cx="99.7" cy="37.2" r="9.7"/>
+	<circle class="st1" cx="107.2" cy="59.1" r="6.8"/>
+	<circle class="st16" cx="127.8" cy="40.5" r="10.6"/>
+	<circle class="st17" cx="161.9" cy="52.7" r="7.6"/>
+	<circle class="st18" cx="184.6" cy="6.4" r="6.4"/>
+	<circle class="st19" cx="154.5" cy="20.6" r="9.8"/>
+</g>
+<text transform="matrix(1 0 0 1 173.7846 182.4471)" class="st0 st20 st21">NGenuity Labs @ NTU MSE</text>
+</svg>
