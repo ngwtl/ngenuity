@@ -11,3 +11,8 @@
 .highlight {
     color: red;
 }
+
+.news-list li {
+    list-style-type: square; /* Example: square bullets */
+    margin-bottom: 5px; /* Space between items */
+}
