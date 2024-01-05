@@ -1,0 +1,9 @@
+/* In styles.css */
+.my-custom-list li {
+    margin-bottom: 10px; /* Adds space below each list item */
+}
+
+.profile-pic {
+    max-width: 200px; /* Set the maximum width */
+    height: auto; /* Maintain the aspect ratio */
+}
