@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 734 236.6" style="enable-background:new 0 0 734 236.6;" xml:space="preserve">
+	 viewBox="0 0 690.3 236.6" style="enable-background:new 0 0 690.3 236.6;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#171D4E;}
 	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FF0023;}
@@ -29,8 +29,8 @@
 </style>
 <g transform="rotate(0 311.25900580590576 234.13459928953557)">
 	<path class="st0" d="M101.5,91.8c3,0,5.5,2.5,5.5,5.5c0,3.1-2.5,5.5-5.5,5.5h-5.9v39.6l42.9,68.9c2.1,3.4,2.2,7.7,0.3,11.2
-		c-2,3.5-5.6,5.7-9.7,5.7h-118c-4,0-7.7-2.2-9.7-5.7s-1.8-7.8,0.3-11.2l42.9-68.9v-39.6h-7.4c-3,0-5.5-2.5-5.5-5.5
-		c0-3,2.5-5.5,5.5-5.5h18.5v53.8l-44.6,71.5h118l-44.6-71.5V91.8L101.5,91.8L101.5,91.8z"/>
+		c-2,3.5-5.6,5.7-9.7,5.7h-118c-4,0-7.7-2.2-9.7-5.7s-1.8-7.8,0.3-11.2l42.9-68.9v-39.6h-7.4c-3,0-5.5-2.5-5.5-5.5s2.5-5.5,5.5-5.5
+		h18.5v53.8l-44.6,71.5h118l-44.6-71.5V91.8H101.5L101.5,91.8z"/>
 	<circle class="st1" cx="35.9" cy="204.8" r="8.6"/>
 	<circle class="st2" cx="53.4" cy="187.3" r="11.7"/>
 	<circle class="st3" cx="53.8" cy="207.7" r="5.1"/>
@@ -53,5 +53,5 @@
 	<circle class="st18" cx="184.6" cy="6.4" r="6.4"/>
 	<circle class="st19" cx="154.5" cy="20.6" r="9.8"/>
 </g>
-<text transform="matrix(1 0 0 1 156.7873 189.234)" class="st20 st21 st22">NGenuity Labs</text>
+<text transform="matrix(1 0 0 1 156.7805 189.234)" class="st20 st21 st22">NGenuity Lab</text>
 </svg>
