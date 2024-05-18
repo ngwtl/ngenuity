@@ -16,3 +16,24 @@
     list-style-type: square; /* Example: square bullets */
     margin-bottom: 5px; /* Space between items */
 }
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    background-color: black;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .carousel-inner {
+        max-width: 100%;
+    }
+
+    .img-thumbnail {
+        width: 100%;
+        height: auto;
+    }
+}
